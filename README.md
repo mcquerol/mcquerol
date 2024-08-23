@@ -14,9 +14,13 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 
 Skills:
 ✅ MATLAB, Simulink
+
 ✅ National Instruments LabVIEW, Multisim, Ultiboard
+
 ✅ Web Design (HTML, PHP, MySQL)
+
 ✅ C/C++, Kicad, STM32, FreeRTOS, ERIKA OS, PSoC, VHDL, SystemVerilog
+
 ✅ Soldering (THT)
 
 ### Find me on:
@@ -25,7 +29,7 @@ Skills:
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mateo-Ceballos-Querol)
 [![SoloLearn](https://img.shields.io/static/v1?label=&message=SoloLearn&color=9b59b6&style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/14175011)
 [![Quora](https://img.shields.io/static/v1?label=&message=Quora&color=B92B27&style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Mateo-Ceballos-Querol-1)
-![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol/)
+[![Khan Academy](https://img.shields.io/static/v1?label=Khan%20Academy&message=&color=14BF96&style=for-the-badge&logo=simpleicons-khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcquerol&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&theme=radical)
