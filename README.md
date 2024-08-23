@@ -20,8 +20,8 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 [![Quora](https://img.shields.io/static/v1?label=&message=Quora&color=B92B27&style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Mateo-Ceballos-Querol-1)
 [![Khan Academy](https://img.shields.io/static/v1?label=&message=Khan%20Academy&color=14BF96&style=for-the-badge&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&theme=radical)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcquerol&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcquerol&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&theme=github_dark)
 
 ## Languages I Know
 
@@ -63,44 +63,10 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white) 
 ![FPGA](https://img.shields.io/badge/-FPGA-FF6600?style=for-the-badge&logo=intel&logoColor=white)
 
+## GitHub Streak
 
-## Pinned Repositories
+![GitHub Streak](https://streak-stats.demolab.com?user=mcquerol&theme=github-dark&hide_border=true)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mcquerol/electronic-gas-pedal-psoc5-erikaos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-gas-pedal-psoc5-erikaos&theme=github_dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mcquerol/electronic-clock-psoc5-erikaos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-clock-psoc5-erikaos&theme=github_dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mcquerol/24ghz-imp165-speed-measurement">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=24ghz-imp165-speed-measurement&theme=github_dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mcquerol/ev-regenerative-braking-systetm-bachelor-thesis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=ev-regenerative-braking-systetm-bachelor-thesis&theme=github_dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mcquerol/derbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=derbot&theme=github_dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mcquerol/cable-tester">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=cable-tester&theme=github_dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+## GitHub Trophies
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcquerol&theme=darkhub&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
