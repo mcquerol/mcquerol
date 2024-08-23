@@ -13,6 +13,7 @@ Electronics is not only my chosen career path but also a beloved hobby. I enjoy 
 Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid guitar player.
 
 Skills:
+
 ✅ MATLAB, Simulink
 
 ✅ National Instruments LabVIEW, Multisim, Ultiboard
