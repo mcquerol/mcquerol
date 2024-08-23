@@ -20,8 +20,9 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 [![Quora](https://img.shields.io/static/v1?label=&message=Quora&color=B92B27&style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Mateo-Ceballos-Querol-1)
 [![Khan Academy](https://img.shields.io/static/v1?label=&message=Khan%20Academy&color=14BF96&style=for-the-badge&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&theme=github_dark)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcquerol&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&theme=github_dark)
+
 
 ## Languages I Know
 
@@ -62,11 +63,3 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ![PSoC5](https://img.shields.io/badge/-PSoC5-00A3E0?style=for-the-badge&logo=cypress&logoColor=white) 
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white) 
 ![FPGA](https://img.shields.io/badge/-FPGA-FF6600?style=for-the-badge&logo=intel&logoColor=white)
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mcquerol&theme=github-dark&hide_border=true)
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mcquerol&theme=darkhub&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
