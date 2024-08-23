@@ -63,43 +63,43 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 
 ## Languages I Know
 
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-VHDL-00599C?style=for-the-badge" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-SystemVerilog-FF6600?style=for-the-badge" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-LTSpice-0052cc?style=for-the-badge" style="margin: 2px;" />
+<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-VHDL-00599C?style=for-the-badge" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-SystemVerilog-FF6600?style=for-the-badge" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-LTSpice-0052cc?style=for-the-badge" style="margin: 2px; display: inline;" />
 
 ## CAD Tools
 
-<img src="https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-LabVIEW-FFDB00?style=for-the-badge&logo=national-instruments&logoColor=black" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Multisim-0052cc?style=for-the-badge&logo=multisim&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Ultiboard-0052cc?style=for-the-badge&logo=multisim&logoColor=white" style="margin: 2px;" />
+<img src="https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-LabVIEW-FFDB00?style=for-the-badge&logo=national-instruments&logoColor=black" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Multisim-0052cc?style=for-the-badge&logo=multisim&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Ultiboard-0052cc?style=for-the-badge&logo=multisim&logoColor=white" style="margin: 2px; display: inline;" />
 
 ## Skills I Want to Learn
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-3D%20Printing-FF5722?style=for-the-badge&logo=3d-printing&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Soldering%20(SMD)-4CAF50?style=for-the-badge" style="margin: 2px;" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-3D%20Printing-FF5722?style=for-the-badge&logo=3d-printing&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Soldering%20(SMD)-4CAF50?style=for-the-badge" style="margin: 2px; display: inline;" />
 
 ## Simulation Tools
 
-<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-LTSpice-0052cc?style=for-the-badge" style="margin: 2px;" />
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-LTSpice-0052cc?style=for-the-badge" style="margin: 2px; display: inline;" />
 
 ## Hardware
 
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-PIC-0033A0?style=for-the-badge&logo=microchip-technology&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-PSoC5-00A3E0?style=for-the-badge&logo=cypress&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/-FPGA-FF6600?style=for-the-badge&logo=intel&logoColor=white" style="margin: 2px;" />
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-PIC-0033A0?style=for-the-badge&logo=microchip-technology&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-PSoC5-00A3E0?style=for-the-badge&logo=cypress&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white" style="margin: 2px; display: inline;" />
+<img src="https://img.shields.io/badge/-FPGA-FF6600?style=for-the-badge&logo=intel&logoColor=white" style="margin: 2px; display: inline;" />
