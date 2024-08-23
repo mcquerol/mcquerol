@@ -20,7 +20,7 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 [![Quora](https://img.shields.io/static/v1?label=&message=Quora&color=B92B27&style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Mateo-Ceballos-Querol-1)
 [![Khan Academy](https://img.shields.io/static/v1?label=&message=Khan%20Academy&color=14BF96&style=for-the-badge&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&theme=github_dark&title_color=ffffff&text_color=ffffffbg_color=0d1117)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=ffffff)<br>
 ![mcquerol's stats](https://github-readme-stats.vercel.app/api?username=mcquerol&show_icons=true&theme=github_dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
 
 
