@@ -14,8 +14,7 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 
 Skills:
 
-✅ MATLAB, Simulink
-
+✅ MATLAB, Simulink<br>
 ✅ National Instruments LabVIEW, Multisim, Ultiboard
 
 ✅ Web Design (HTML, PHP, MySQL)
