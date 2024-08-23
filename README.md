@@ -32,10 +32,7 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![VHDL](https://img.shields.io/badge/-VHDL-00599C?style=for-the-badge) 
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-FF6600?style=for-the-badge) 
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
-![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
-![LTSpice](https://img.shields.io/badge/-LTSpice-0052cc?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-FF6600?style=for-the-badge)
 
 ## CAD Tools
 
