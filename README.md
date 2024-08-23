@@ -15,13 +15,10 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 Skills:
 
 ✅ MATLAB, Simulink<br>
-✅ National Instruments LabVIEW, Multisim, Ultiboard
-
-✅ Web Design (HTML, PHP, MySQL)
-
-✅ C/C++, Kicad, STM32, FreeRTOS, ERIKA OS, PSoC, VHDL, SystemVerilog
-
-✅ Soldering (THT)
+✅ National Instruments LabVIEW, Multisim, Ultiboard<br>
+✅ Web Design (HTML, PHP, MySQL)<br>
+✅ C/C++, Kicad, STM32, FreeRTOS, ERIKA OS, PSoC, VHDL, SystemVerilog<br>
+✅ Soldering (THT)<br>
 
 ### Find me on:
 
