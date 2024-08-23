@@ -63,3 +63,18 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white) 
 ![FPGA](https://img.shields.io/badge/-FPGA-FF6600?style=for-the-badge&logo=intel&logoColor=white)
 
+
+## Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-gas-pedal-psoc5-erikaos)](https://github.com/mcquerol/electronic-gas-pedal-psoc5-erikaos)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-clock-psoc5-erikaos)](https://github.com/mcquerol/electronic-clock-psoc5-erikaos)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=24ghz-imp165-speed-measurement)](https://github.com/mcquerol/24ghz-imp165-speed-measurement)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=ev-regenerative-braking-systetm-bachelor-thesis)](https://github.com/mcquerol/ev-regenerative-braking-systetm-bachelor-thesis)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=derbot)](https://github.com/mcquerol/derbot)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=cable-tester)](https://github.com/mcquerol/cable-tester)
+
