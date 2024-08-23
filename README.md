@@ -66,15 +66,41 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 
 ## Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-gas-pedal-psoc5-erikaos)](https://github.com/mcquerol/electronic-gas-pedal-psoc5-erikaos)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mcquerol/electronic-gas-pedal-psoc5-erikaos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-gas-pedal-psoc5-erikaos&theme=github_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mcquerol/electronic-clock-psoc5-erikaos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-clock-psoc5-erikaos&theme=github_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mcquerol/24ghz-imp165-speed-measurement">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=24ghz-imp165-speed-measurement&theme=github_dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mcquerol/ev-regenerative-braking-systetm-bachelor-thesis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=ev-regenerative-braking-systetm-bachelor-thesis&theme=github_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mcquerol/derbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=derbot&theme=github_dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mcquerol/cable-tester">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=cable-tester&theme=github_dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=electronic-clock-psoc5-erikaos)](https://github.com/mcquerol/electronic-clock-psoc5-erikaos)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=24ghz-imp165-speed-measurement)](https://github.com/mcquerol/24ghz-imp165-speed-measurement)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=ev-regenerative-braking-systetm-bachelor-thesis)](https://github.com/mcquerol/ev-regenerative-braking-systetm-bachelor-thesis)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=derbot)](https://github.com/mcquerol/derbot)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcquerol&repo=cable-tester)](https://github.com/mcquerol/cable-tester)
 
