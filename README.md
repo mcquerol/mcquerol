@@ -2,9 +2,8 @@
 
 Passionate Electrical and Electronics Engineer pursuing a Master's degree in Electrical Engineering and Information Technology with a focus on embedded systems at the University of Hochschule Darmstadt in Germany.
 
-Education:
-🎓 Bachelor of Engineering (Electrical and Electronics Engineering) - University of Derby, United Kingdom (First Class Honours)
-🎓 Currently pursuing Master's in Electrical Engineering and Information Technology (Major in Embedded Systems) - University of Hochschule Darmstadt, Germany
+- 🎓 Bachelor of Engineering (Electrical and Electronics Engineering) - University of Derby, United Kingdom (First Class Honours)
+- 🎓 Currently pursuing Master's in Electrical Engineering and Information Technology (Major in Embedded Systems) University of Hochschule Darmstadt, Germany
 
 Since an early age, I have been captivated by the world of robotics, sparked by the incredible achievements of the Opportunity Rover landing on Mars in 2004. This fascination, along with my passion for math, science, and programming, led me to build and program my first Lego robot using National Instruments LabVIEW at the age of 11 whilst studying at the International School of Brussels.
 
