@@ -57,3 +57,31 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ![PSoC5](https://img.shields.io/badge/-PSoC5-00A3E0?style=for-the-badge&logo=cypress&logoColor=white) 
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white) 
 ![FPGA](https://img.shields.io/badge/-FPGA-FF6600?style=for-the-badge&logo=intel&logoColor=white)
+
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+    return 0;
+}
+```
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
+```
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+```
+
