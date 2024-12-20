@@ -24,6 +24,6 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 #### Hardware
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![PIC](https://img.shields.io/badge/-PIC-0033A0?style=flat-square&logo=microchip-technology&logoColor=white) ![PSoC5](https://img.shields.io/badge/-PSoC5-00A3E0?style=flat-square&logo=cypress&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white) ![FPGA](https://img.shields.io/badge/-FPGA-FF6600?style=flat-square&logo=intel&logoColor=white)
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&hide=assembly,pawn,csharp,openedge%20abl,sql,other&layout=compact&langs_count=100&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,c-exercises)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&hide=assembly,pawn,csharp,openedge%20abl,sql,other&layout=compact&langs_count=5&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,c-exercises,24ghz-imp165-speed-measurement)
 ### 🔍 Want to Explore More Languages?
 Head over to the [Repositories tab](https://github.com/mcquerol?tab=repositories) to filter my projects by language!
