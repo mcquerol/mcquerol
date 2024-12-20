@@ -58,4 +58,6 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white) 
 ![FPGA](https://img.shields.io/badge/-FPGA-FF6600?style=for-the-badge&logo=intel&logoColor=white)
 
+## 📊 Top Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&hide=assembly,pawn,csharp,openedge%20abl,sql,other&layout=compact&langs_count=6&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,c-exercises)
