@@ -49,6 +49,7 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
 ![LTSpice](https://img.shields.io/badge/-LTSpice-0052cc?style=for-the-badge)
 
+
 ## Hardware
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
@@ -61,3 +62,6 @@ Beyond my professional pursuits, I am a dedicated Lego enthusiast, and an avid g
 ## 📊 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&hide=assembly,pawn,csharp,openedge%20abl,sql,other&layout=compact&langs_count=6&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,c-exercises)
+
+### 🔍 Want to Explore More Languages?
+Head over to the [Repositories tab](https://github.com/mcquerol?tab=repositories) to filter my projects by language!
