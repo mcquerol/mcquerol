@@ -1,18 +1,15 @@
 🚀 About Me
-I'm an Embedded Systems Engineer with a strong foundation in hardware and firmware development, currently pursuing a Master's degree in Electrical Engineering and Information Technology at Hochschule Darmstadt, Germany. My primary focus is on real-time embedded systems, low-level programming, and FPGA-based development.
+I'm an **Embedded Systems Engineering Student** with a strong foundation in **hardware and firmware development**, currently pursuing a **Master's degree in Electrical Engineering and Information Technology** at Hochschule Darmstadt, Germany. My primary focus is on **real-time embedded systems, low-level programming, and FPGA-based development**.  
 
-My passion for electronics, robotics, and software-hardware integration started at an early age and has since grown into both a career and a hobby. I am particularly interested in space exploration technologies, autonomous systems, and microcontroller-based applications.
+My passion for **electronics, robotics, and programming** started at an early age and has since grown into both a career and a hobby. I am particularly interested in **Microcontroller-based applications, ADAS as well as space exploration technologies**.  
 
-This portfolio serves as a collection of projects that showcase my expertise in embedded software development, digital design, and system-level programming.
+While this repository contains **most of my projects**, some older work remains unarchived due to accessibility constraints. Additionally, my interests extend beyond traditional engineering projects—I have also **explored game mods, particularly in Minecraft, web desig, GUI design and other non-traditional coding experiments**. 
 
 ⚠️ Disclaimer
-I started actively using GitHub in 2023, and as part of documenting my previous work, I have programmatically pushed past projects using Python scripts. Some of these projects are still in the process of being properly structured and documented. This portfolio is a work in progress, and I continuously update it as I refine and expand my repository.
+**I started actively using GitHub in 2023, and as part of documenting prior work, I have programmatically pushed past projects using Python scripts. Some of these projects are still in the process of being properly structured and documented. This portfolio is a work in progress, and I continuously update it as I refine and expand my repository.**
 
 ## 🔗 Find me on  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcquerol)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mateo-Ceballos-Querol)  [![SoloLearn](https://img.shields.io/badge/SoloLearn-9b59b6?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/14175011)  [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol)  
-
-
 ## 🛠️ Technical Skills  
 
 | **Category** | **Skills** |
