@@ -1,11 +1,11 @@
-#🚀 About Me
+# 🚀 About Me
 I'm an **Embedded Systems Engineering Student** with a strong foundation in **hardware and firmware development**, currently pursuing a **Master's degree in Electrical Engineering and Information Technology** at Hochschule Darmstadt, Germany. My primary focus is on **real-time embedded systems, low-level programming, and FPGA-based development**.  
 
 My passion for **electronics, robotics, and programming** started at an early age and has since grown into both a career and a hobby. I am particularly interested in **Microcontroller-based applications, ADAS as well as space exploration technologies**.  
 
 While this repository contains **most of my projects**, some older work remains unarchived due to accessibility constraints. Additionally, my interests extend beyond traditional engineering projects—I have also **explored game mods, particularly in Minecraft, web desig, GUI design and other non-traditional coding experiments**. 
 
-#⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 **I started actively using GitHub in 2023, and as part of documenting prior work, I have programmatically pushed past projects using Python scripts. Some of these projects are still in the process of being properly structured and documented. This portfolio is a work in progress, and I continuously update it as I refine and expand my repository.**
 
