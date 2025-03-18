@@ -8,6 +8,11 @@ This portfolio serves as a collection of projects that showcase my expertise in 
 ⚠️ Disclaimer
 I started actively using GitHub in 2023, and as part of documenting my previous work, I have programmatically pushed past projects using Python scripts. Some of these projects are still in the process of being properly structured and documented. This portfolio is a work in progress, and I continuously update it as I refine and expand my repository.
 
+## 🔗 Find me on  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcquerol)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mateo-Ceballos-Querol)  [![SoloLearn](https://img.shields.io/badge/SoloLearn-9b59b6?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/14175011)  [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol)  
+
+
 ## 🛠️ Technical Skills  
 
 | **Category** | **Skills** |
