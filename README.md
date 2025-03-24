@@ -17,8 +17,8 @@ While this repository contains **most of my projects**, some older work remains 
 | **Simulation Tools** | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat&logo=matlab&logoColor=white) ![LTSpice](https://img.shields.io/badge/-LTSpice-0052cc?style=flat&logo=&logoColor=white) |
 | **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white) ![PIC](https://img.shields.io/badge/-PIC-0033A0?style=flat&logo=microchip-technology&logoColor=white) ![PSoC5](https://img.shields.io/badge/-PSoC5-00A3E0?style=flat&logo=cypress&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white) ![FPGA](https://img.shields.io/badge/-FPGA-FF6600?style=flat&logo=intel&logoColor=white) |
 
-## 📊 Top 5 Languages
-![Top 5 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&hide=assembly,pawn,csharp,openedge%20abl,sql,other&layout=compact&langs_count=5&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,c-exercises,24ghz-imp165-speed-measurement)
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&hide=assembly,pawn,csharp,openedge%20abl,sql,other&layout=compact&langs_count=6&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,c-exercises,24ghz-imp165-speed-measurement)
 
 ### 🔍 Want to Explore More Languages?
 Head over to the [Repositories tab](https://github.com/mcquerol?tab=repositories) to filter my projects by language!
