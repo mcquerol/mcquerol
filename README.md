@@ -6,7 +6,8 @@ My passion for **electronics, robotics, and programming** started at an early ag
 While this repository contains **most of my projects**, some older work remains unarchived due to accessibility constraints. Additionally, my interests extend beyond traditional engineering projects—I have also **explored game mods, particularly in Minecraft, web desig, GUI design and other non-traditional coding experiments**. 
 
 ## 🔗 Find me on  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcquerol)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mateo-Ceballos-Querol)  [![SoloLearn](https://img.shields.io/badge/SoloLearn-9b59b6?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/14175011)  [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcquerol)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mateo-Ceballos-Querol)  [![SoloLearn](https://img.shields.io/badge/SoloLearn-9b59b6?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/14175011)  [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/mcquerol) [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=flat&logo=w3schools&logoColor=white)](https://www.w3profile.com/mcquerol) 
+
 ## 🛠️ Technical Skills  
 
 | **Category** | **Skills** |
