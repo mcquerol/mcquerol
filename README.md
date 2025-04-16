@@ -26,5 +26,4 @@ While this repository contains **most of my projects**, some older work remains 
 Head over to the [Repositories tab](https://github.com/mcquerol?tab=repositories) to filter my projects by language!
 
 # ⚠️ Disclaimer
-
 **I started actively using GitHub in 2023, and as part of documenting prior work, I have programmatically pushed past projects using Python scripts. Some of these projects are still in the process of being properly structured and documented. This portfolio is a work in progress, and I continuously update it as I refine and expand my repository.**
