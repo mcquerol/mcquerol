@@ -22,6 +22,7 @@ While this repository contains **most of my projects**, some older work remains 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&langs_count=10&hide=tcl,assembly,pawn,labview,csharp,openedge%20abl,sql,gdb,makefile,javascript,css,linker%20script,shell,vue,jupyter%20notebook,stata,hack,mathematica,dockerfile,roff,mercury,limbo&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,reaction-game-psoc5-erikaos,kibble-balance,load-flow-studies,dc-dc-converter-simulation-for-solar-model-car)
 
+![View Count](https://komarev.com/ghpvc/?username=mcquerol)
 
 # ⚠️ Disclaimer
 **I started actively using GitHub in 2023, and as part of documenting prior work, I have programmatically pushed past projects using Python scripts. Some of these projects are still in the process of being properly structured and documented. This portfolio is a work in progress, and I continuously update it as I refine and expand my repository.**
