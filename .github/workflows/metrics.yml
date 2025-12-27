@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 3 * * *"}]   # daily
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core
+          user: mcquerol
+          template: classic
+          base: ""
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            tcl,assembly,pawn,labview,c#,openedge abl,sql,gdb,makefile,javascript,css,linker script,shell,vue,jupyter notebook,stata,hack,mathematica,dockerfile,roff,mercury,limbo
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
