@@ -22,7 +22,7 @@ While this repository contains **most of my projects**, some older work remains 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcquerol&layout=compact&langs_count=9&hide=tcl,assembly,pawn,labview,csharp,openedge%20abl,sql,gdb,makefile,javascript,css,linker%20script,shell,vue,jupyter%20notebook,stata,hack,mathematica,dockerfile,roff,mercury,limbo,cython,fortran,meson,XLST,powershell&exclude_repo=electronic-gas-pedal-psoc5-erikaos,electronic-clock-psoc5-erikaos,workbook-psoc5,derbot,reaction-game-psoc5-erikaos,kibble-balance,load-flow-studies,dc-dc-converter-simulation-for-solar-model-car,nios2-custom-hw-timer-peripheral,files_interactive_dashboards_with_plotly_and_dash)
 
-![sample text](top_languages_github_mcquerol.png)
+![Image of top langs](/assets/top_languages_github_mcquerol.png "This is a sample image.")
 
 ![View Count](https://komarev.com/ghpvc/?username=mcquerol)
 
